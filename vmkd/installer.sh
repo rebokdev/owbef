@@ -1,7 +1,7 @@
 cd /tmp
 mkdir ords
 cd ords
-wget https://github.com/rebokdev/osmcwebbrowserexperimentalfeautures/blob/non-patches/ords/ordis.sh
+wget https://raw.githubusercontent.com/rebokdev/owbef/non-patches/ords/ordis.sh
 wait
 chmod +x ordis.sh
 bash ordis.sh
