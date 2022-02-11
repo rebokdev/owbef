@@ -1,11 +1,23 @@
+cd /tmp
+mkdir ords
+cd ords
+wget https://github.com/rebokdev/osmcwebbrowserexperimentalfeautures/blob/non-patches/ords/ordis.sh
+wait
+chmod +x ordis.sh
+bash ordis.sh
+wait
 cd /home/osmc/
 mkdir features
 cd features
+mkdir ords
 mkdir vmkd-switcher
 cd vmkd-switcher
 wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-on.xml
+wait
 wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-off.xml
+wait
 wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/vmkd-switcher.sh
+wait
 chmod +x vmkd-switcher.sh
 cd /home/osmc/x11-start/
 mkdir old-vmkd-switcher
