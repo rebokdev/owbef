@@ -4,7 +4,7 @@ cd features
 mkdir vmkd-switcher
 cd vmkd-switcher
 wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-on.xml
-https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-off.xml
+wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-off.xml
 wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/vmkd-switcher.sh
 chmod +x vmkd-switcher.sh
 cd /home/osmc/x11-start/
