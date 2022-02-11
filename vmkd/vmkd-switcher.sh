@@ -3,7 +3,7 @@ wait
 if echo $devices | grep OSMC; then
   rm /home/osmc/.config/openbox/lxde-rc.xml
   wait
-  cp /home/osmc/features-files/vmkd/lxde-rc-on.xml /home/osmc/.config/openbox/
+  cp /home/osmc/features-files/vmkd-switcher/lxde-rc-on.xml /home/osmc/.config/openbox/
   wait
   cd /home/osmc/.config/openbox/
   wait
@@ -13,7 +13,7 @@ if echo $devices | grep OSMC; then
 else
   rm /home/osmc/.config/openbox/lxde-rc.xml
   wait
-  cp /home/osmc/features-files/vmkd/lxde-rc-off.xml /home/osmc/.config/openbox/
+  cp /home/osmc/features-files/vmkd-switcher/lxde-rc-off.xml /home/osmc/.config/openbox/
   wait
   cd /home/osmc/.config/openbox/
   wait
