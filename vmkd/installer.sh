@@ -12,4 +12,4 @@ mkdir old-vmkd-switcher
 cp vmkd-switcher.sh /home/osmc/x11-start/backup
 wait
 rm vmkd-switcher.sh
-cp /home/osmc/features/vmkd-switcher/vmkd-swittcher.sh /home/osmc/x11-start/
+cp /home/osmc/features/vmkd-switcher/vmkd-switcher.sh /home/osmc/x11-start/
