@@ -6,6 +6,8 @@ Settings app
 And installable in settings app featires called
 Parches 
 It's called patches because i don't know XD
+It's not created yet but i'm creating
+this now
 
 You can use ords - osmc remote detector scrpt
 as fragment in your code.
