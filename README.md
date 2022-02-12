@@ -1,7 +1,19 @@
-https://discourse.osmc.tv/t/testing-x11-simple-desktop-chromium-web-browser-in-a-simple-installer-for-stretch/16846
+# osmcwebbrowserpatchserver
+is github repo with software for
+x11(lxde+chromium installed) on osmc
 
-This repository contains features for this browser
+Settings app
+And installable in settings app featires called
+Parches 
+It's called patches because i don't know XD
 
-non-patches is script with commands that you need write to terminal
+You can use ords - osmc remote detector scrpt
+as fragment in your code.
 
-All the fetures without PATCH APP and dev tools will be anvabile as patch
+You need for forst run run ordis - osmc
+remote detector installer script
+
+Note:ordis uses input-remapper you can change
+config from terminal because i removed gui
+because for me it doesn't work. If you want
+gui install orginal input-remapper from github
