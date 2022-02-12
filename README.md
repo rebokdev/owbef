@@ -19,3 +19,9 @@ Note:ordis uses input-remapper you can change
 config from terminal because i removed gui
 because for me it doesn't work. If you want
 gui install orginal input-remapper from github
+
+Note version.info is file for settings
+all to compate to files on this github
+repo ex. 1=1 app is up to date,5=2 you probaly
+have other version you can change patch repo
+or reinstall from orginal,15=1 patch have update
