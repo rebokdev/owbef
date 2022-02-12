@@ -12,11 +12,11 @@ cd features
 mkdir ords
 mkdir vmkd-switcher
 cd vmkd-switcher
-wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-on.xml
+wget https://raw.githubusercontent.com/rebokdev/owbef/patches/vmkd/lxde-rc-on.xml
 wait
-wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/lxde-rc-off.xml
+wget https://raw.githubusercontent.com/rebokdev/owbef/patches/vmkd/lxde-rc-off.xml
 wait
-wget https://raw.githubusercontent.com/rebokdev/osmcwebbrowserexperimentalfeautures/patches/vmkd/vmkd-switcher.sh
+wget https://raw.githubusercontent.com/rebokdev/owbef/patches/vmkd/vmkd-switcher.sh
 wait
 chmod +x vmkd-switcher.sh
 cd /home/osmc/x11-start/
