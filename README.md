@@ -12,7 +12,7 @@ this now
 You can use ords - osmc remote detector scrpt
 as fragment in your code.
 
-You need for forst run run ordis - osmc
+You need for first run run ordis - osmc
 remote detector installer script
 
 Note:ordis uses input-remapper you can change
