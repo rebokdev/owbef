@@ -25,3 +25,5 @@ all to compate to files on this github
 repo ex. 1=1 app is up to date,5=2 you probaly
 have other version you can change patch repo
 or reinstall from orginal,15=1 patch have update
+
+I will start more work soon
