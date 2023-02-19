@@ -1,4 +1,4 @@
-devices=$(sudo input-remapper-control --list-devices)
+devices=$(lsusb)
 wait
 if echo $devices | grep OSMC; then
   rm /home/osmc/.config/openbox/lxde-rc.xml
