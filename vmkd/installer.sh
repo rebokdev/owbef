@@ -1,11 +1,3 @@
-cd /tmp
-mkdir ords
-cd ords
-wget https://raw.githubusercontent.com/rebokdev/owbef/non-patches/ords/ordis.sh
-wait
-chmod +x ordis.sh
-bash ordis.sh
-wait
 cd /home/osmc/
 mkdir features
 cd features
